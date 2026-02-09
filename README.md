@@ -12,6 +12,8 @@ All the assignments are done with PyTorch.
 
 ## Repository Structure (Winter 2022)
 
+**Assignments 5 and 6 are unfinished due to an OS crash on my laptop. Reinstalling the system caused the loss of my local notebooks and intermediate results.**
+
 ### Assignment 1: PyTorch Basics and k-NN
 - **PyTorch 101** (`pytorch101.ipynb`) - Walk you through the basics of working with tensors in PyTorch.
 - **k-Nearest Neighbor classifier** (`knn.ipynb`) - Walk you through implementing a kNN classifier.
